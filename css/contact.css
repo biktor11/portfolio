@@ -1,0 +1,9 @@
+.content {
+    background-color: #8773EE;
+    min-height: 80%;
+    width: 90%;
+    padding: 0% 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
